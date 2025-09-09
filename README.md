@@ -77,10 +77,6 @@ Hey there! I'm **Archit Agrawal**, a passionate Full Stack Developer who loves c
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1235&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1235&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph">
 </div>
 
